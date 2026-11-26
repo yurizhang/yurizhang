@@ -12,4 +12,4 @@ Trend Micro Staff Engineer，负责 Trend Vision One 安全平台前端；专注
 
 **Open source**: [iShow UI](https://github.com/yurizhang/ishow), a configurable UI toolkit for React
 
-**Contact**: [LinkedIn](https://www.linkedin.com/in/yong-zhang-842332bb/)
+**Contact**: [LinkedIn](https://www.linkedin.com/in/yong-zhang-842332bb/) · [zhangyong0604@126.com](mailto:zhangyong0604@126.com)
